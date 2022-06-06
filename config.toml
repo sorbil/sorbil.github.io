@@ -1,0 +1,4 @@
+baseURL = 'http://sorbil.github.io/'
+languageCode = 'en-us'
+title = '📖'
+theme = "ananke"
